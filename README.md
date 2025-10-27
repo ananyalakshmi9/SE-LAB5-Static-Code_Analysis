@@ -16,8 +16,7 @@ Issue Log & Fixes
 
 The following tables document the process of identifying and fixing all issues reported by the static analysis tools.
 
-1. Cross-Referenced Issues (Reported by Multiple Tools)
-
+Cross-Referenced Issues (Reported by Multiple Tools)
 Issue
 
 Type
@@ -68,8 +67,7 @@ Pylint (C0305), Flake8 (W391). The tools reported an incorrect number of blank l
 
 Fixed by ensuring there is exactly one blank newline at the end of the script.
 
-2. Single-Tool Issues
-
+Single-Tool Issues
 Issue
 
 Type
@@ -148,4 +146,4 @@ Multiple
 
 Flake8 (E501). Several lines were slightly longer than the 79-character limit.
 
-Reformatted the long logging lines to be shorter and compliant.
+Reformatted the lo
