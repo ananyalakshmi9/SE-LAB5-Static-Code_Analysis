@@ -4,8 +4,6 @@ This repository contains the work for a lab focused on improving Python code qua
 
 * **Final Code:** [`inventory_system.py`](./inventory_system.py)
 
-* **Reflection:** [`reflection.md`](./reflection.md)
-
 ## Final Analysis Reports
 
 The final, cleaned code achieves a **10/10** from Pylint and has **0 issues** identified by Bandit and Flake8.
